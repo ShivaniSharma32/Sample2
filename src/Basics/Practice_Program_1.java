@@ -66,7 +66,7 @@ public class Practice_Program_1 {
 		driver.findElement(By.xpath("//input[@value='Proceed to checkout']")).click();
 	
 		
-		
+		//Hello
 			}
 
 }
